@@ -13,4 +13,7 @@
 
 * [Startup()](https://github.com/BillEliot/RakNet/wiki/Startup())
 * [Connecting()](https://github.com/BillEliot/RakNet/wiki/Connecting())
-
+* [Creating Packets](https://github.com/BillEliot/RakNet/wiki/Creating-Packets)
+* [Recieving Packets](https://github.com/BillEliot/RakNet/wiki/Recieving-Packets)
+* [SystemAddresses](https://github.com/BillEliot/RakNet/wiki/SystemAddresses)
+* [Bitstreams](https://github.com/BillEliot/RakNet/wiki/Bitstreams)
