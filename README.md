@@ -13,11 +13,11 @@
 
 * [Startup()](https://github.com/BillEliot/RakNet/wiki/Startup())
 * [Connecting()](https://github.com/BillEliot/RakNet/wiki/Connecting())
-* [创建包](https://github.com/BillEliot/RakNet/wiki/Creating-Packets)
-* [接收包](https://github.com/BillEliot/RakNet/wiki/Recieving-Packets)
+* [创建包(Creating Packets)](https://github.com/BillEliot/RakNet/wiki/%E5%88%9B%E5%BB%BA%E5%8C%85(Creating-Packets))
+* [接收包(Recieving Packets)](https://github.com/BillEliot/RakNet/wiki/%E6%8E%A5%E6%94%B6%E5%8C%85(Recieving-Packets))
 * [SystemAddresses](https://github.com/BillEliot/RakNet/wiki/SystemAddresses)
 * [Bitstreams](https://github.com/BillEliot/RakNet/wiki/Bitstreams)
-* [可靠类型](https://github.com/BillEliot/RakNet/wiki/%E5%8F%AF%E9%9D%A0%E7%B1%BB%E5%9E%8B)
+* [可靠类型(Reliability Types)](https://github.com/BillEliot/RakNet/wiki/%E5%8F%AF%E9%9D%A0%E7%B1%BB%E5%9E%8B(Reliability-Types))
 * [网络消息(Network Messages)](https://github.com/BillEliot/RakNet/wiki/%E7%BD%91%E7%BB%9C%E6%B6%88%E6%81%AF(Network-Messages))
 * [给包添加时间戳(Timestamping your packets)](https://github.com/BillEliot/RakNet/wiki/%E7%BB%99%E5%8C%85%E6%B7%BB%E5%8A%A0%E6%97%B6%E9%97%B4%E6%88%B3(Timestamping-your-packets))
 
