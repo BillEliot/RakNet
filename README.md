@@ -30,4 +30,7 @@
 
 ## 插件
 
+* [Plugin Interface 2](https://github.com/BillEliot/RakNet/wiki/Interface-2%E6%8F%92%E4%BB%B6(Plugin-Interface-2)) - 所有插件的基类。
+* [RPC4](https://github.com/BillEliot/RakNet/wiki/RPC4%E6%8F%92%E4%BB%B6(RPC4-Plugin)) - 调用C函数，无额外依赖。
+* [Lobby2Client - PC](https://github.com/BillEliot/RakNet/wiki/Lobby2Client---PC) - 基于PostgreSQL数据库持久化游戏数据，包括用户、好友、战队、消息。
 * [SQLite3Plugin概述(SQLite3Plugin Overview)](https://github.com/BillEliot/RakNet/wiki/SQLite3Plugin%E6%A6%82%E8%BF%B0(SQLite3Plugin-Overview)) - 通过网络执行SQlite语句(取代LightweightDatabase)。
