@@ -12,8 +12,9 @@
 ## 基础
 
 * [Startup()](https://github.com/BillEliot/RakNet/wiki/Startup()) - 启动RakPeerInterface和对线程休眠计时器的解释。
-* [Connecting()](https://github.com/BillEliot/RakNet/wiki/Connecting()) - 如何查找和连接到其它系统以及对问题的处理。
+* [连接(Connecting)](https://github.com/BillEliot/RakNet/wiki/%E8%BF%9E%E6%8E%A5(Connecting)) - 如何查找和连接到其它系统以及对问题的处理。
 * [创建包(Creating Packets)](https://github.com/BillEliot/RakNet/wiki/%E5%88%9B%E5%BB%BA%E5%8C%85(Creating-Packets)) - 如何使用结构体和bitstreams创建自定义包以及如何编码世界戳。
+* [发送包(Sending packets)](https://github.com/BillEliot/RakNet/wiki/%E5%8F%91%E9%80%81%E5%8C%85(Sending-packets)) - 如何发送已经准备好的数据以及使用什么参数
 * [接收包(Recieving Packets)](https://github.com/BillEliot/RakNet/wiki/%E6%8E%A5%E6%94%B6%E5%8C%85(Recieving-Packets)) - 如何通过结构体或bitstream将原始数据转换回可读的包。
 * [SystemAddresses](https://github.com/BillEliot/RakNet/wiki/SystemAddresses) - 描述包中和作为一些函数参数的SystemAddress结构体的目的和使用。
 * [Bitstreams](https://github.com/BillEliot/RakNet/wiki/Bitstreams) - RakNet中bitstream类概述以及通过API使用。
@@ -33,4 +34,5 @@
 * [Plugin Interface 2](https://github.com/BillEliot/RakNet/wiki/Interface-2%E6%8F%92%E4%BB%B6(Plugin-Interface-2)) - 所有插件的基类。
 * [RPC4](https://github.com/BillEliot/RakNet/wiki/RPC4%E6%8F%92%E4%BB%B6(RPC4-Plugin)) - 调用C函数，无额外依赖。
 * [Lobby2Client - PC](https://github.com/BillEliot/RakNet/wiki/Lobby2Client---PC) - 基于PostgreSQL数据库持久化游戏数据，包括用户、好友、战队、消息。
+* [消息过滤(Message Filter)](https://github.com/BillEliot/RakNet/wiki/%E6%B6%88%E6%81%AF%E8%BF%87%E6%BB%A4(Message-Filter)) - 基于发送者阻止不期望的网络消息以增加安全性
 * [SQLite3Plugin概述(SQLite3Plugin Overview)](https://github.com/BillEliot/RakNet/wiki/SQLite3Plugin%E6%A6%82%E8%BF%B0(SQLite3Plugin-Overview)) - 通过网络执行SQlite语句(取代LightweightDatabase)。
