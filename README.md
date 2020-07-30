@@ -35,4 +35,5 @@
 * [RPC4](https://github.com/BillEliot/RakNet/wiki/RPC4%E6%8F%92%E4%BB%B6(RPC4-Plugin)) - 调用C函数，无额外依赖。
 * [Lobby2Client - PC](https://github.com/BillEliot/RakNet/wiki/Lobby2Client---PC) - 基于PostgreSQL数据库持久化游戏数据，包括用户、好友、战队、消息。
 * [消息过滤(Message Filter)](https://github.com/BillEliot/RakNet/wiki/%E6%B6%88%E6%81%AF%E8%BF%87%E6%BB%A4(Message-Filter)) - 基于发送者阻止不期望的网络消息以增加安全性
+* [Replica Manager 3](https://github.com/BillEliot/RakNet/wiki/%E5%90%8C%E6%AD%A5%E7%AE%A1%E7%90%86%E5%99%A8(Replica-Manager-3)) - 使游戏对象和玩家的序列化、范围界定和对象创建与销毁更简单的管理插件
 * [SQLite3Plugin概述(SQLite3Plugin Overview)](https://github.com/BillEliot/RakNet/wiki/SQLite3Plugin%E6%A6%82%E8%BF%B0(SQLite3Plugin-Overview)) - 通过网络执行SQlite语句(取代LightweightDatabase)。
